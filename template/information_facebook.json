@@ -1,0 +1,32 @@
+{
+    "url":{
+        "message":"Write the url link of your facebook post that you want to boost"
+    },
+    "boost":{
+        "message":"Choose the package you want to increase with",
+        "buttons":{
+            "reply_markup":{
+                "inline_keyboard": [
+                    [
+                        {"text": "500 Likes $5 ", "callback_data": 1}
+                    ],
+                    [
+                        {"text": "1000 Likes $10 ", "callback_data": 2}
+                    ],
+                    [
+                        {"text": "2500 Likes $20 ", "callback_data": 3}
+                    ],
+                    [
+                        {"text": "2500 Likes $30 ", "callback_data": 4}
+                    ],
+                    [
+                        {"text": "5000 Likes $70 ", "callback_data": 5}
+                    ],
+                    [
+                        {"text": "1000 Likes $120 ", "callback_data": 6}
+                    ]
+                ]
+            }
+        } 
+    }
+}
