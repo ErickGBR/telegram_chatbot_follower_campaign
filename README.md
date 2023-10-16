@@ -1,5 +1,5 @@
 
-# telegram_cratbot_follower_campaign
+# telegram_chatbot_follower_campaign
 
 ## Introduction
 
